@@ -36,7 +36,5 @@
 </p>
 
 <p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmmordi&show_icons=true&locale=en&layout=compact"
-        alt="ahmedmmordi" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmmordi&show_icons=true&locale=en&layout=compact" alt="ahmedmmordi" />
 </p>
