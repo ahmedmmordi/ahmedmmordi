@@ -20,7 +20,12 @@
     <a href="https://codeforces.com/profile/ahmed_mordi_74" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_mordi_74" height="30" width="40" />
     </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.leetcode.com/ahmed_mordi_74" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_mordi_74" height="30" width="40" />
+    </a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
