@@ -9,20 +9,20 @@
 <h3 align="center">Software Engineer | Competitive Programmer</h3>
 
 <p align="center">
-    📫 How to reach me: <strong>ahmed.m.hamada2003@gmail.com</strong>
+    📫 How to reach me: 
+    <strong>
+        <a href="mailto:ahmed.m.hamada2003@gmail.com">ahmed.m.hamada2003@gmail.com</a>
+    </strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
-
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
     <a href="https://linkedin.com/in/ahmedmordi74" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedmordi74" height="30" width="40" />
     </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://codeforces.com/profile/ahmed_mordi_74" target="blank">
+    <a href="https://codeforces.com/profile/ahmedMordi" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_mordi_74" height="30" width="40" />
     </a>
-    &nbsp;&nbsp;&nbsp;
     <a href="https://www.leetcode.com/ahmed_mordi_74" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_mordi_74" height="30" width="40" />
     </a>
