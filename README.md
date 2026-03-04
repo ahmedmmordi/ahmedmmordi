@@ -16,6 +16,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmedmordi74/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1120457299417374870)
+[![Codeforces](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/52/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png)](https://codeforces.com/profile/ahmedMordi)
 
 </div>
 
@@ -44,4 +45,3 @@
     height="195"
   />
 </div>
-
