@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Ahmed Mordi 👨‍💻</h1>
 
-<h3 align="center">Software Engineer | Competitive Programmer</h3>
+<h3 align="center">Someone who engineers solutions, not just code. Striving to be a T-shaped engineer.</h3>
 
 <p align="center">
     📫 How to reach me: 
